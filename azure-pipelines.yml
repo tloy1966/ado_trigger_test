@@ -14,5 +14,5 @@ steps:
   displayName: 'Run a one-line script'
 
 - script: |
-    ls
+    ls -a
   displayName: 'Run a multi-line script'
